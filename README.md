@@ -1,8 +1,5 @@
 <h2>Donat</h2>
 <br>
-<p align="center">
-  <img src="![image](https://github.com/user-attachments/assets/5298a2f1-e0f5-4213-ab48-82bb1da0d12a)">
-</p>
 
   ![image](https://github.com/user-attachments/assets/5298a2f1-e0f5-4213-ab48-82bb1da0d12a)
 
