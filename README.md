@@ -1,5 +1,8 @@
 <h2>Donat</h2>
 <br>
-![image](https://github.com/user-attachments/assets/74f6d70e-620a-435f-83a6-37e59002e92f)
+
+![image](https://github.com/user-attachments/assets/5298a2f1-e0f5-4213-ab48-82bb1da0d12a)
+
 <br>
-![Screenshot from 2025-01-29 20-49-39](https://github.com/user-attachments/assets/80bc9ee6-0f65-40cd-ab3d-c47806e898c9)
+
+![Screenshot from 2025-01-29 20-49-39](https://github.com/user-attachments/assets/0878fcd5-e17b-4c65-9d97-33cc3e294025)
